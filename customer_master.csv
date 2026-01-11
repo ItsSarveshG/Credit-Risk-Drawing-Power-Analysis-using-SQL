@@ -1,0 +1,151 @@
+Customer_ID,Company_Name,Industry,Entity_Type,Vintage_Yrs,Turnover_Cr,Credit_Rating,Relationship_Months
+C001,Company_1 Pvt Ltd,Pharma,Pvt Ltd,2,150,BBB,40
+C002,Company_2 Pvt Ltd,Trading,Pvt Ltd,12,289,A,87
+C003,Company_3 Pvt Ltd,Textile,Pvt Ltd,2,57,BBB,41
+C004,Company_4 Pvt Ltd,Logistics,Pvt Ltd,10,111,B,40
+C005,Company_5 Pvt Ltd,Textile,Proprietorship,14,13,BBB,101
+C006,Company_6 Pvt Ltd,Textile,Proprietorship,6,89,BBB,109
+C007,Company_7 Pvt Ltd,FMCG,Pvt Ltd,3,204,A,57
+C008,Company_8 Pvt Ltd,IT Services,Proprietorship,11,145,A,105
+C009,Company_9 Pvt Ltd,Textile,Pvt Ltd,8,50,BB,118
+C010,Company_10 Pvt Ltd,Pharma,Proprietorship,11,108,A,17
+C011,Company_11 Pvt Ltd,Pharma,Partnership,14,158,A,41
+C012,Company_12 Pvt Ltd,IT Services,Pvt Ltd,8,152,B,93
+C013,Company_13 Pvt Ltd,IT Services,Proprietorship,4,199,BB,38
+C014,Company_14 Pvt Ltd,Pharma,Proprietorship,13,46,BBB,80
+C015,Company_15 Pvt Ltd,Pharma,Partnership,4,246,B,46
+C016,Company_16 Pvt Ltd,Pharma,Partnership,12,176,A,41
+C017,Company_17 Pvt Ltd,IT Services,Pvt Ltd,14,171,B,46
+C018,Company_18 Pvt Ltd,Manufacturing,Partnership,11,171,BBB,95
+C019,Company_19 Pvt Ltd,Textile,LLP,12,244,BBB,45
+C020,Company_20 Pvt Ltd,Trading,Partnership,13,297,BB,107
+C021,Company_21 Pvt Ltd,Logistics,LLP,11,214,BB,40
+C022,Company_22 Pvt Ltd,Trading,LLP,3,34,A,31
+C023,Company_23 Pvt Ltd,Pharma,Partnership,14,226,A,61
+C024,Company_24 Pvt Ltd,Textile,LLP,10,138,A,99
+C025,Company_25 Pvt Ltd,Pharma,Pvt Ltd,12,284,BB,110
+C026,Company_26 Pvt Ltd,Pharma,Proprietorship,3,160,B,32
+C027,Company_27 Pvt Ltd,Textile,Pvt Ltd,13,144,BBB,76
+C028,Company_28 Pvt Ltd,Manufacturing,Proprietorship,15,269,BBB,31
+C029,Company_29 Pvt Ltd,FMCG,Partnership,10,281,A,88
+C030,Company_30 Pvt Ltd,FMCG,LLP,2,67,BB,118
+C031,Company_31 Pvt Ltd,IT Services,Proprietorship,5,39,BBB,84
+C032,Company_32 Pvt Ltd,Manufacturing,Pvt Ltd,13,258,A,109
+C033,Company_33 Pvt Ltd,Logistics,Partnership,4,253,BBB,45
+C034,Company_34 Pvt Ltd,Logistics,LLP,5,286,BBB,103
+C035,Company_35 Pvt Ltd,FMCG,LLP,12,201,B,78
+C036,Company_36 Pvt Ltd,Textile,Pvt Ltd,5,125,A,55
+C037,Company_37 Pvt Ltd,Manufacturing,Partnership,11,122,A,21
+C038,Company_38 Pvt Ltd,Pharma,Pvt Ltd,5,44,A,54
+C039,Company_39 Pvt Ltd,Manufacturing,Partnership,6,258,BBB,81
+C040,Company_40 Pvt Ltd,Trading,LLP,5,252,B,36
+C041,Company_41 Pvt Ltd,Manufacturing,Pvt Ltd,12,230,BB,66
+C042,Company_42 Pvt Ltd,Textile,LLP,15,37,A,19
+C043,Company_43 Pvt Ltd,Textile,Proprietorship,14,65,BBB,36
+C044,Company_44 Pvt Ltd,Trading,LLP,4,226,BBB,47
+C045,Company_45 Pvt Ltd,Textile,Partnership,15,48,B,115
+C046,Company_46 Pvt Ltd,IT Services,Pvt Ltd,2,286,A,23
+C047,Company_47 Pvt Ltd,IT Services,Partnership,4,218,B,73
+C048,Company_48 Pvt Ltd,Trading,LLP,2,94,B,12
+C049,Company_49 Pvt Ltd,Textile,Proprietorship,14,242,BB,66
+C050,Company_50 Pvt Ltd,Pharma,LLP,4,107,BB,39
+C051,Company_51 Pvt Ltd,Manufacturing,Pvt Ltd,13,170,A,18
+C052,Company_52 Pvt Ltd,Logistics,LLP,10,281,BBB,19
+C053,Company_53 Pvt Ltd,Logistics,Pvt Ltd,15,105,A,88
+C054,Company_54 Pvt Ltd,Manufacturing,Partnership,8,71,BBB,86
+C055,Company_55 Pvt Ltd,Logistics,Pvt Ltd,11,51,B,96
+C056,Company_56 Pvt Ltd,Logistics,Proprietorship,6,114,BB,42
+C057,Company_57 Pvt Ltd,FMCG,LLP,4,163,B,52
+C058,Company_58 Pvt Ltd,IT Services,Pvt Ltd,2,244,A,21
+C059,Company_59 Pvt Ltd,Logistics,Partnership,10,145,BBB,56
+C060,Company_60 Pvt Ltd,Manufacturing,Partnership,7,155,BBB,68
+C061,Company_61 Pvt Ltd,IT Services,Proprietorship,11,280,A,97
+C062,Company_62 Pvt Ltd,IT Services,Proprietorship,12,63,BBB,45
+C063,Company_63 Pvt Ltd,Manufacturing,Pvt Ltd,13,293,BBB,46
+C064,Company_64 Pvt Ltd,FMCG,Partnership,13,185,BBB,99
+C065,Company_65 Pvt Ltd,Pharma,Proprietorship,10,260,BB,120
+C066,Company_66 Pvt Ltd,Manufacturing,Pvt Ltd,12,226,BB,17
+C067,Company_67 Pvt Ltd,Manufacturing,Proprietorship,14,76,BB,32
+C068,Company_68 Pvt Ltd,Pharma,LLP,10,228,A,26
+C069,Company_69 Pvt Ltd,Manufacturing,Partnership,10,28,BB,86
+C070,Company_70 Pvt Ltd,Logistics,Partnership,8,75,A,51
+C071,Company_71 Pvt Ltd,FMCG,Pvt Ltd,7,117,BBB,97
+C072,Company_72 Pvt Ltd,Manufacturing,Proprietorship,14,296,B,91
+C073,Company_73 Pvt Ltd,Pharma,Partnership,5,93,BBB,64
+C074,Company_74 Pvt Ltd,Manufacturing,Partnership,13,180,B,114
+C075,Company_75 Pvt Ltd,Pharma,Partnership,6,91,A,60
+C076,Company_76 Pvt Ltd,IT Services,Pvt Ltd,15,250,BBB,37
+C077,Company_77 Pvt Ltd,IT Services,LLP,7,166,BBB,40
+C078,Company_78 Pvt Ltd,Manufacturing,Partnership,8,178,BB,20
+C079,Company_79 Pvt Ltd,IT Services,Proprietorship,7,270,B,98
+C080,Company_80 Pvt Ltd,IT Services,Proprietorship,2,69,BB,34
+C081,Company_81 Pvt Ltd,Logistics,Proprietorship,2,65,B,56
+C082,Company_82 Pvt Ltd,Pharma,Proprietorship,8,271,A,61
+C083,Company_83 Pvt Ltd,Logistics,Partnership,6,32,B,12
+C084,Company_84 Pvt Ltd,Logistics,Partnership,7,230,A,97
+C085,Company_85 Pvt Ltd,FMCG,Proprietorship,12,73,BB,76
+C086,Company_86 Pvt Ltd,FMCG,LLP,7,216,BB,82
+C087,Company_87 Pvt Ltd,Trading,Partnership,8,204,BBB,90
+C088,Company_88 Pvt Ltd,Logistics,Proprietorship,8,290,A,50
+C089,Company_89 Pvt Ltd,FMCG,Partnership,8,174,B,68
+C090,Company_90 Pvt Ltd,Textile,Partnership,10,252,BBB,96
+C091,Company_91 Pvt Ltd,Manufacturing,Proprietorship,10,181,A,116
+C092,Company_92 Pvt Ltd,IT Services,Partnership,12,168,BBB,115
+C093,Company_93 Pvt Ltd,Trading,Partnership,2,33,BBB,72
+C094,Company_94 Pvt Ltd,Logistics,Pvt Ltd,9,222,BBB,103
+C095,Company_95 Pvt Ltd,Pharma,LLP,9,214,BBB,30
+C096,Company_96 Pvt Ltd,Pharma,Pvt Ltd,14,64,B,40
+C097,Company_97 Pvt Ltd,Trading,LLP,2,295,BBB,120
+C098,Company_98 Pvt Ltd,Manufacturing,LLP,4,247,BB,108
+C099,Company_99 Pvt Ltd,Textile,LLP,15,290,B,32
+C100,Company_100 Pvt Ltd,Pharma,LLP,9,142,BBB,119
+C101,Company_101 Pvt Ltd,Pharma,Proprietorship,14,276,B,92
+C102,Company_102 Pvt Ltd,Trading,Proprietorship,9,49,BB,42
+C103,Company_103 Pvt Ltd,FMCG,Proprietorship,7,286,A,29
+C104,Company_104 Pvt Ltd,Trading,Partnership,8,88,BBB,20
+C105,Company_105 Pvt Ltd,Textile,LLP,7,287,B,65
+C106,Company_106 Pvt Ltd,Manufacturing,Partnership,15,225,B,110
+C107,Company_107 Pvt Ltd,Logistics,Pvt Ltd,15,204,B,12
+C108,Company_108 Pvt Ltd,FMCG,Proprietorship,14,209,B,80
+C109,Company_109 Pvt Ltd,Pharma,Partnership,9,122,BB,67
+C110,Company_110 Pvt Ltd,Textile,Pvt Ltd,8,182,B,104
+C111,Company_111 Pvt Ltd,Trading,LLP,4,283,A,62
+C112,Company_112 Pvt Ltd,Logistics,Pvt Ltd,3,229,BBB,71
+C113,Company_113 Pvt Ltd,Trading,Pvt Ltd,6,204,BB,39
+C114,Company_114 Pvt Ltd,Textile,Proprietorship,7,204,BB,108
+C115,Company_115 Pvt Ltd,IT Services,LLP,6,51,B,14
+C116,Company_116 Pvt Ltd,Pharma,Pvt Ltd,7,124,A,111
+C117,Company_117 Pvt Ltd,Pharma,Pvt Ltd,14,25,BBB,37
+C118,Company_118 Pvt Ltd,IT Services,Pvt Ltd,11,88,BBB,28
+C119,Company_119 Pvt Ltd,Textile,Pvt Ltd,11,121,B,101
+C120,Company_120 Pvt Ltd,FMCG,Proprietorship,4,68,BBB,51
+C121,Company_121 Pvt Ltd,Manufacturing,Pvt Ltd,6,202,B,103
+C122,Company_122 Pvt Ltd,Trading,Pvt Ltd,11,134,A,101
+C123,Company_123 Pvt Ltd,IT Services,Proprietorship,15,71,A,56
+C124,Company_124 Pvt Ltd,Logistics,LLP,12,199,A,76
+C125,Company_125 Pvt Ltd,Pharma,Proprietorship,2,225,B,25
+C126,Company_126 Pvt Ltd,Textile,Proprietorship,12,245,BBB,67
+C127,Company_127 Pvt Ltd,Trading,Proprietorship,11,285,B,71
+C128,Company_128 Pvt Ltd,Textile,Proprietorship,7,135,A,47
+C129,Company_129 Pvt Ltd,Textile,Partnership,14,247,B,55
+C130,Company_130 Pvt Ltd,Manufacturing,LLP,15,176,BBB,74
+C131,Company_131 Pvt Ltd,Trading,Proprietorship,14,142,BB,47
+C132,Company_132 Pvt Ltd,Logistics,Proprietorship,10,15,BBB,22
+C133,Company_133 Pvt Ltd,Trading,LLP,9,294,BBB,100
+C134,Company_134 Pvt Ltd,Textile,LLP,9,18,A,49
+C135,Company_135 Pvt Ltd,Trading,LLP,13,134,BB,96
+C136,Company_136 Pvt Ltd,Logistics,Proprietorship,9,293,BB,66
+C137,Company_137 Pvt Ltd,Pharma,Proprietorship,7,242,BB,51
+C138,Company_138 Pvt Ltd,FMCG,Partnership,3,108,BB,27
+C139,Company_139 Pvt Ltd,Pharma,Partnership,5,120,B,47
+C140,Company_140 Pvt Ltd,Pharma,Proprietorship,3,109,BB,41
+C141,Company_141 Pvt Ltd,FMCG,Partnership,6,17,BBB,47
+C142,Company_142 Pvt Ltd,Manufacturing,Pvt Ltd,10,159,BBB,93
+C143,Company_143 Pvt Ltd,IT Services,LLP,3,16,BB,72
+C144,Company_144 Pvt Ltd,Textile,LLP,7,104,A,44
+C145,Company_145 Pvt Ltd,IT Services,LLP,3,43,B,74
+C146,Company_146 Pvt Ltd,Manufacturing,Pvt Ltd,4,86,BB,22
+C147,Company_147 Pvt Ltd,Trading,Pvt Ltd,10,223,BBB,111
+C148,Company_148 Pvt Ltd,Logistics,LLP,9,236,BB,87
+C149,Company_149 Pvt Ltd,Textile,Proprietorship,11,40,A,109
+C150,Company_150 Pvt Ltd,Trading,Partnership,6,51,BBB,42

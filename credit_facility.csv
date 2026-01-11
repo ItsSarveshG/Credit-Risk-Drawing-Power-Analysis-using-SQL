@@ -1,0 +1,151 @@
+Facility_ID,Customer_ID,Facility_Type,Sanctioned_Limit_Lakhs,Outstanding_Lakhs,ROI_%,Tenure_Months,Security_Type
+F001,C001,Cash Credit,108,91.63,10.01,60,Mortgage
+F002,C002,OD,169,103.88,13.53,60,Hypothecation
+F003,C003,OD,371,261.57,13.94,24,Mortgage
+F004,C004,Term Loan,78,65.91,10.74,36,Hypothecation
+F005,C005,OD,56,35.1,12.98,36,Mortgage
+F006,C006,OD,83,67.31,13.5,36,Mortgage
+F007,C007,Cash Credit,244,155.23,14.45,36,Mortgage
+F008,C008,Term Loan,33,21.16,14.18,12,Mortgage
+F009,C009,Cash Credit,315,194.7,12.35,60,Mortgage
+F010,C010,OD,112,117.45,13.17,60,Hypothecation
+F011,C011,OD,260,196.71,11.61,12,Hypothecation
+F012,C012,OD,188,147.63,11.44,60,Hypothecation
+F013,C013,OD,252,161.19,11.62,60,Hypothecation
+F014,C014,OD,356,352.87,12.07,24,Mortgage
+F015,C015,Term Loan,338,317.86,12.21,12,Hypothecation
+F016,C016,OD,156,132.16,12.19,60,Hypothecation
+F017,C017,Term Loan,34,35.29,14.0,24,Mortgage
+F018,C018,OD,302,183.06,10.47,12,Mortgage
+F019,C019,Cash Credit,80,71.32,12.49,36,Mortgage
+F020,C020,OD,232,226.35,11.22,24,Mortgage
+F021,C021,Term Loan,117,118.74,13.73,24,Hypothecation
+F022,C022,OD,161,152.58,11.7,36,Hypothecation
+F023,C023,Term Loan,164,151.98,12.9,60,Hypothecation
+F024,C024,OD,248,208.91,11.66,60,Mortgage
+F025,C025,Cash Credit,497,370.17,14.9,24,Mortgage
+F026,C026,OD,139,136.94,10.22,60,Mortgage
+F027,C027,Term Loan,217,226.72,14.9,60,Hypothecation
+F028,C028,Term Loan,84,69.39,11.66,12,Mortgage
+F029,C029,OD,71,59.4,10.08,24,Mortgage
+F030,C030,Cash Credit,465,416.01,10.37,36,Mortgage
+F031,C031,Term Loan,339,309.07,10.4,36,Mortgage
+F032,C032,OD,182,160.53,14.36,12,Hypothecation
+F033,C033,OD,140,123.76,14.99,12,Mortgage
+F034,C034,Term Loan,70,65.95,14.36,60,Hypothecation
+F035,C035,Cash Credit,375,275.53,10.23,12,Mortgage
+F036,C036,Cash Credit,203,156.04,11.22,60,Hypothecation
+F037,C037,Term Loan,107,72.63,14.35,24,Mortgage
+F038,C038,Cash Credit,487,420.0,12.31,36,Mortgage
+F039,C039,OD,150,135.01,14.51,24,Hypothecation
+F040,C040,Term Loan,246,252.24,11.5,60,Mortgage
+F041,C041,Cash Credit,253,248.04,15.0,60,Hypothecation
+F042,C042,OD,141,108.8,12.87,36,Hypothecation
+F043,C043,OD,444,397.91,10.04,12,Mortgage
+F044,C044,OD,446,449.06,13.88,24,Mortgage
+F045,C045,Term Loan,132,117.02,11.25,24,Hypothecation
+F046,C046,Cash Credit,482,425.3,11.54,60,Hypothecation
+F047,C047,Cash Credit,316,241.48,10.45,36,Mortgage
+F048,C048,Cash Credit,402,316.36,10.66,36,Mortgage
+F049,C049,OD,445,299.95,14.84,36,Mortgage
+F050,C050,Cash Credit,431,280.94,10.7,24,Mortgage
+F051,C051,OD,453,435.82,10.45,60,Hypothecation
+F052,C052,OD,155,130.43,11.84,36,Mortgage
+F053,C053,OD,441,391.32,10.54,24,Mortgage
+F054,C054,Term Loan,32,28.12,11.64,24,Hypothecation
+F055,C055,Term Loan,345,334.9,11.51,60,Hypothecation
+F056,C056,Cash Credit,91,56.46,11.52,60,Hypothecation
+F057,C057,Term Loan,69,48.69,10.68,60,Mortgage
+F058,C058,Term Loan,363,372.88,14.73,60,Hypothecation
+F059,C059,Cash Credit,473,372.11,14.17,60,Mortgage
+F060,C060,Cash Credit,36,32.78,12.22,24,Mortgage
+F061,C061,OD,70,72.9,12.72,36,Hypothecation
+F062,C062,Cash Credit,223,161.48,14.75,60,Hypothecation
+F063,C063,Term Loan,359,249.67,12.99,12,Hypothecation
+F064,C064,Cash Credit,422,316.53,13.93,24,Hypothecation
+F065,C065,Cash Credit,444,419.28,12.93,24,Mortgage
+F066,C066,Term Loan,416,277.22,10.01,24,Hypothecation
+F067,C067,Cash Credit,296,210.99,10.55,12,Hypothecation
+F068,C068,Cash Credit,27,20.55,12.94,12,Hypothecation
+F069,C069,Term Loan,155,96.65,12.1,12,Hypothecation
+F070,C070,OD,263,210.85,12.57,12,Mortgage
+F071,C071,Term Loan,277,193.82,10.22,36,Mortgage
+F072,C072,Cash Credit,349,360.8,14.99,60,Mortgage
+F073,C073,Term Loan,371,240.62,14.55,12,Hypothecation
+F074,C074,Cash Credit,184,160.77,10.63,36,Mortgage
+F075,C075,OD,325,272.59,12.53,60,Hypothecation
+F076,C076,Term Loan,426,390.13,13.25,24,Mortgage
+F077,C077,OD,251,250.91,11.69,60,Mortgage
+F078,C078,OD,232,215.37,12.13,36,Mortgage
+F079,C079,OD,98,89.09,10.34,12,Hypothecation
+F080,C080,Term Loan,241,155.07,11.86,24,Hypothecation
+F081,C081,Term Loan,320,329.75,11.65,12,Mortgage
+F082,C082,OD,201,199.62,14.34,12,Mortgage
+F083,C083,Cash Credit,327,242.18,12.89,24,Hypothecation
+F084,C084,Cash Credit,356,290.85,11.75,36,Hypothecation
+F085,C085,Cash Credit,410,297.4,14.04,12,Mortgage
+F086,C086,Term Loan,34,23.16,13.81,36,Mortgage
+F087,C087,Cash Credit,23,15.68,12.83,60,Hypothecation
+F088,C088,Cash Credit,92,85.88,10.46,24,Mortgage
+F089,C089,Cash Credit,234,188.17,11.85,36,Hypothecation
+F090,C090,Cash Credit,472,294.37,13.77,12,Hypothecation
+F091,C091,OD,159,127.1,12.43,60,Mortgage
+F092,C092,Term Loan,159,110.82,10.57,60,Hypothecation
+F093,C093,Term Loan,165,149.36,12.43,36,Hypothecation
+F094,C094,Term Loan,132,102.68,10.27,24,Mortgage
+F095,C095,OD,128,121.0,11.45,12,Hypothecation
+F096,C096,Cash Credit,274,256.51,10.65,24,Mortgage
+F097,C097,Term Loan,56,43.61,10.21,12,Mortgage
+F098,C098,OD,491,311.8,12.88,60,Mortgage
+F099,C099,Cash Credit,168,109.51,14.83,24,Mortgage
+F100,C100,OD,445,405.09,10.44,12,Hypothecation
+F101,C101,Term Loan,243,210.19,10.39,36,Mortgage
+F102,C102,Cash Credit,133,99.73,10.38,12,Hypothecation
+F103,C103,OD,483,458.51,13.64,24,Hypothecation
+F104,C104,Cash Credit,72,47.94,10.87,24,Hypothecation
+F105,C105,Term Loan,110,113.09,12.47,60,Mortgage
+F106,C106,OD,462,479.07,10.75,12,Mortgage
+F107,C107,OD,246,217.49,12.96,36,Hypothecation
+F108,C108,Cash Credit,178,143.79,10.28,36,Hypothecation
+F109,C109,Cash Credit,350,346.12,13.08,60,Mortgage
+F110,C110,Term Loan,317,269.27,14.48,60,Hypothecation
+F111,C111,Term Loan,184,160.49,10.75,12,Mortgage
+F112,C112,OD,72,69.48,14.91,12,Hypothecation
+F113,C113,OD,40,28.46,14.95,24,Mortgage
+F114,C114,OD,210,212.75,12.04,36,Hypothecation
+F115,C115,OD,424,374.77,10.33,12,Mortgage
+F116,C116,Term Loan,165,117.71,14.82,24,Mortgage
+F117,C117,Cash Credit,61,52.6,14.58,36,Mortgage
+F118,C118,Cash Credit,86,74.63,11.55,60,Mortgage
+F119,C119,Term Loan,436,286.67,14.14,12,Mortgage
+F120,C120,OD,280,213.59,11.54,24,Mortgage
+F121,C121,Cash Credit,412,337.35,15.0,24,Hypothecation
+F122,C122,Cash Credit,171,167.58,12.54,12,Mortgage
+F123,C123,Cash Credit,468,442.18,12.99,24,Hypothecation
+F124,C124,Term Loan,112,109.1,14.05,24,Mortgage
+F125,C125,Term Loan,42,32.97,13.6,60,Mortgage
+F126,C126,OD,405,379.42,11.17,24,Mortgage
+F127,C127,Cash Credit,434,413.59,11.84,60,Mortgage
+F128,C128,OD,413,300.17,12.51,60,Hypothecation
+F129,C129,Term Loan,438,302.16,10.69,36,Hypothecation
+F130,C130,OD,348,284.06,12.77,12,Hypothecation
+F131,C131,Cash Credit,165,105.23,11.36,24,Mortgage
+F132,C132,Cash Credit,66,67.71,14.08,36,Hypothecation
+F133,C133,Term Loan,232,144.76,11.87,60,Hypothecation
+F134,C134,OD,211,147.92,14.65,36,Hypothecation
+F135,C135,OD,90,55.55,13.48,24,Mortgage
+F136,C136,Cash Credit,249,218.35,10.1,24,Hypothecation
+F137,C137,Term Loan,300,306.93,12.64,12,Mortgage
+F138,C138,Cash Credit,141,103.71,11.19,60,Hypothecation
+F139,C139,OD,76,74.21,12.98,12,Hypothecation
+F140,C140,OD,387,257.2,10.01,36,Hypothecation
+F141,C141,Term Loan,312,245.69,13.34,36,Hypothecation
+F142,C142,Term Loan,289,244.16,12.77,60,Mortgage
+F143,C143,OD,42,37.21,11.27,12,Mortgage
+F144,C144,Cash Credit,423,266.66,13.66,12,Mortgage
+F145,C145,Term Loan,88,54.56,11.69,24,Mortgage
+F146,C146,Cash Credit,376,306.57,14.06,12,Mortgage
+F147,C147,Cash Credit,38,27.82,13.96,12,Mortgage
+F148,C148,OD,497,367.55,14.95,60,Mortgage
+F149,C149,Cash Credit,38,35.68,11.43,12,Mortgage
+F150,C150,OD,159,104.31,12.18,60,Mortgage
